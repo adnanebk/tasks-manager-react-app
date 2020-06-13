@@ -1,0 +1,5 @@
+
+{
+  "apiUrljWT": "https://adnanbk.herokuapp.com/jwt",
+  "apiUrl": "https://adnanbk.herokuapp.com/react"
+}
